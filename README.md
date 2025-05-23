@@ -500,12 +500,24 @@ When deploying with network isolation, you can access the Azure resources using 
 > [!NOTE]
 > If you are using the jumpbox VM, you can use the [./infra/scripts/Initialize-VM.ps1](./infra/scripts/Initialize-VM.ps1) script to install the necessary tools and dependencies on the VM to build and deploy the application.
 
-## Contributing
+# Contributing
 
-This project welcomes contributions and suggestions. If you have any issues or feature requests, please open an issue on the GitHub repository.
+This project welcomes contributions and suggestions. Most contributions require you to agree to a
+Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
+the rights to use your contribution. For details, visit <https://cla.opensource.microsoft.com>.
 
-If you would like to contribute to the project, please fork the repository and create a pull request with your changes. Please ensure that your code follows the existing coding style and includes appropriate tests.
+When you submit a pull request, a CLA bot will automatically determine whether you need to provide
+a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
+provided by the bot. You will only need to do this once across all repos using our CLA.
 
-## License
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+# Trademarks
+
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
+trademarks or logos is subject to and must follow
+[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
+Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
+Any use of third-party trademarks or logos are subject to those third-party's policies.
