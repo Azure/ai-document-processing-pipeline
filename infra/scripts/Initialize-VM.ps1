@@ -37,8 +37,8 @@ wsl --update
 Write-Host "Downloading repository..."
 mkdir C:\src
 cd C:\src
-git clone https://github.com/jamesmcroft/azure-ai-document-pipeline-python-sample
-cd .\azure-ai-document-pipeline-python-sample\
+git clone https://github.com/Azure/ai-document-processing-pipeline
+cd .\ai-document-processing-pipeline\
 
 Write-Host "Logging into the Azure CLI..."
 az login --tenant $TenantId

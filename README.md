@@ -23,7 +23,7 @@ urlFragment: azure-ai-document-processing-pipeline-python
 
 # Azure AI Document Processing Pipeline using Python Durable Functions
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jamesmcroft/azure-ai-document-pipeline-python-sample?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Azure/ai-document-processing-pipeline?quickstart=1)
 
 This project is a customizable template for building and deploying AI-powered document processing pipelines using Durable Functions orchestrations, incorporating Azure AI services and Azure OpenAI LLMs. It provides a variety of serverless Function activities for document classification and structured data extraction to make it easy to build reliable and accurate workflows to solve complex document processing challenges. If you're looking to automate document processing tasks with AI, this project is a great starting point.
 
@@ -232,7 +232,7 @@ The repository contains a [devcontainer](./.devcontainer/README.md) that contain
 
 ### Setup on GitHub Codespaces
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jamesmcroft/azure-ai-document-pipeline-python-sample?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Azure/ai-document-processing-pipeline?quickstart=1)
 
 > [!NOTE]
 > After the environment has loaded, you may need to run the following command in the terminal to install the necessary Python dependencies: `pip --disable-pip-version-check --no-cache-dir install --user -r src/AIDocumentPipeline/requirements.txt`
